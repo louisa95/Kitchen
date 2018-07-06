@@ -33,7 +33,18 @@
   padding: 30px;
 
 }
-  
-  
-  
+.jumbotron2{
+  background-color:orange;
+  text-align: center;
+}
+#col1{
+  text-align: center;
+  padding: 50px;
+  font-size: 35px; 
+}
+
+#col2{
+  text-align: center;
+  padding: 50px;
+  font-size: 35px; 
 }
