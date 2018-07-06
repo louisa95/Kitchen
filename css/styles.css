@@ -1,0 +1,39 @@
+.jumbotron{
+  background-image:url("../assets/backgrounds/landing.jpg");
+  text-align: center
+  
+}
+#breakfast{
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  text-align: center;
+    padding: 50px;
+    font-size: 35px; 
+} 
+
+#food{
+  background-image: url("../assets/foodtop/lunch.jpg");
+  text-align: center;
+  padding: 50px;
+  font-size: 35px; 
+  }
+  #din{
+  background-image: url("../assets/foodtop/dinner2.jpg");
+  text-align: center;
+  padding: 50px;
+  font-size: 35px; 
+}
+#happy{
+  background-color:light:
+  text-align: center;
+  padding: 20px;
+  font-size: 35px;
+}
+#column{
+  justify-content: center;
+  padding: 30px;
+
+}
+  
+  
+  
+}
