@@ -1,37 +1,53 @@
 .jumbotron{
   background-image:url("../assets/backgrounds/landing.jpg");
   text-align: center
-  
 }
+#happy{
+  background-color: gray;
+  text-align: center;
+  padding: 25px;
+  font-size: 25px;
+}
+
+#party{
+  background-color:orange;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+
+
 #breakfast{
   background-image: url("../assets/foodtop/breakfast.jpg");
   text-align: center;
     padding: 50px;
-    font-size: 35px; 
-} 
+    font-size: 35px;
+    .justify-content-end:hover.nav-link: color: grey;
+}
 
 #food{
   background-image: url("../assets/foodtop/lunch.jpg");
   text-align: center;
   padding: 50px;
-  font-size: 35px; 
+  font-size: 35px;
   }
   #din{
   background-image: url("../assets/foodtop/dinner2.jpg");
   text-align: center;
   padding: 50px;
-  font-size: 35px; 
-}
-#happy{
-  background-color:light:
-  text-align: center;
-  padding: 20px;
   font-size: 35px;
 }
+
 #column{
   justify-content: center;
   padding: 30px;
 
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
 }
 .jumbotron2{
   background-color:orange;
@@ -40,11 +56,11 @@
 #col1{
   text-align: center;
   padding: 50px;
-  font-size: 35px; 
+  font-size: 35px;
 }
 
 #col2{
   text-align: center;
   padding: 50px;
-  font-size: 35px; 
+  font-size: 35px;
 }
